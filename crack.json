@@ -1,6 +1,12 @@
-{
-  "BOT_TOKEN": [
-    "8530205715:AAGeW3Jwk-pLuDbcldiqxLso9iIVI2sX1YA",
-    "7768590113:AAHYqLBZttMJlwIU_mLtMar-Wv-RiXYRibs"
-  ]
-}
+[
+  { "token": "8567139836:AAFpyOubU0I-PnLgW5rj3XKPmoVVUR8O3_o" },
+  { "token": "TOKEN_BOT_ANDA_2" },
+  { "token": "TOKEN_BOT_ANDA_3" },
+  { "token": "TOKEN_BOT_ANDA_4" },
+  { "token": "TOKEN_BOT_ANDA_5" },
+  { "token": "TOKEN_BOT_ANDA_6" },
+  { "token": "TOKEN_BOT_ANDA_7" },
+  { "token": "TOKEN_BOT_ANDA_8" },
+  { "token": "TOKEN_BOT_ANDA_9" },
+  { "token": "TOKEN_BOT_ANDA_10" }
+]
