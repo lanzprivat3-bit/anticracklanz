@@ -1,5 +1,14 @@
 [
-  { "token": "8567139836:AAFpyOubU0I-PnLgW5rj3XKPmoVVUR8O3_o", "username": "founder" },
-  { "token": "8729689354:AAHs-sog5HOR-dLHZj8T058ae-H7aCr7CBU", "username": "joko" },
-  { "token": "TOKEN3", "username": "budi" }
+  {
+    "token": "8567139836:AAFpyOubU0I-PnLgW5rj3XKPmoVVUR8O3_o"
+  },
+  {
+    "token": "8729689354:AAHs-sog5HOR-dLHZj8T058ae-H7aCr7CBU"
+  },
+  {
+    "token": "TOKEN3"
+  },
+  {
+    "token": "8652631778:AAG9oSzUo81o5jx8jzdi_zXudeWKlWBIMhM"
+  }
 ]
