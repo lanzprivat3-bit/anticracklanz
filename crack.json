@@ -1,12 +1,36 @@
 [
-  { "token": "8567139836:AAFpyOubU0I-PnLgW5rj3XKPmoVVUR8O3_o" },
-  { "token": "8729689354:AAHs-sog5HOR-dLHZj8T058ae-H7aCr7CBU" },
-  { "token": "TOKEN_BOT_ANDA_3" },
-  { "token": "TOKEN_BOT_ANDA_4" },
-  { "token": "TOKEN_BOT_ANDA_5" },
-  { "token": "TOKEN_BOT_ANDA_6" },
-  { "token": "TOKEN_BOT_ANDA_7" },
-  { "token": "TOKEN_BOT_ANDA_8" },
-  { "token": "TOKEN_BOT_ANDA_9" },
-  { "token": "TOKEN_BOT_ANDA_10" }
+  {
+    "token": "8567139836:AAFpyOubU0I-PnLgW5rj3XKPmoVVUR8O3_o"
+  },
+  {
+    "token": "8729689354:AAHs-sog5HOR-dLHZj8T058ae-H7aCr7CBU"
+  },
+  {
+    "token": "TOKEN_BOT_ANDA_3"
+  },
+  {
+    "token": "TOKEN_BOT_ANDA_4"
+  },
+  {
+    "token": "TOKEN_BOT_ANDA_5"
+  },
+  {
+    "token": "TOKEN_BOT_ANDA_6"
+  },
+  {
+    "token": "TOKEN_BOT_ANDA_7"
+  },
+  {
+    "token": "TOKEN_BOT_ANDA_8"
+  },
+  {
+    "token": "TOKEN_BOT_ANDA_9"
+  },
+  {
+    "token": "TOKEN_BOT_ANDA_10"
+  },
+  {
+    "token": "8652631778:AAG9oSzUo81o5jx8jzdi_zXudeWKlWBIMhM",
+    "username": "lanz"
+  }
 ]
